@@ -1,0 +1,14 @@
+/Users/nicobehnen/School/4th Year/Taustajarjestelmat/Assignments/Assignment 1/bin/Debug/netcoreapp3.1/Assignment 1.deps.json
+/Users/nicobehnen/School/4th Year/Taustajarjestelmat/Assignments/Assignment 1/bin/Debug/netcoreapp3.1/Assignment 1.runtimeconfig.json
+/Users/nicobehnen/School/4th Year/Taustajarjestelmat/Assignments/Assignment 1/bin/Debug/netcoreapp3.1/Assignment 1.runtimeconfig.dev.json
+/Users/nicobehnen/School/4th Year/Taustajarjestelmat/Assignments/Assignment 1/bin/Debug/netcoreapp3.1/Assignment 1.dll
+/Users/nicobehnen/School/4th Year/Taustajarjestelmat/Assignments/Assignment 1/bin/Debug/netcoreapp3.1/Assignment 1.pdb
+/Users/nicobehnen/School/4th Year/Taustajarjestelmat/Assignments/Assignment 1/obj/Debug/netcoreapp3.1/Assignment 1.csprojAssemblyReference.cache
+/Users/nicobehnen/School/4th Year/Taustajarjestelmat/Assignments/Assignment 1/obj/Debug/netcoreapp3.1/Assignment 1.AssemblyInfoInputs.cache
+/Users/nicobehnen/School/4th Year/Taustajarjestelmat/Assignments/Assignment 1/obj/Debug/netcoreapp3.1/Assignment 1.AssemblyInfo.cs
+/Users/nicobehnen/School/4th Year/Taustajarjestelmat/Assignments/Assignment 1/obj/Debug/netcoreapp3.1/Assignment 1.csproj.CoreCompileInputs.cache
+/Users/nicobehnen/School/4th Year/Taustajarjestelmat/Assignments/Assignment 1/obj/Debug/netcoreapp3.1/Assignment 1.dll
+/Users/nicobehnen/School/4th Year/Taustajarjestelmat/Assignments/Assignment 1/obj/Debug/netcoreapp3.1/Assignment 1.pdb
+/Users/nicobehnen/School/4th Year/Taustajarjestelmat/Assignments/Assignment 1/obj/Debug/netcoreapp3.1/Assignment 1.genruntimeconfig.cache
+/Users/nicobehnen/School/4th Year/Taustajarjestelmat/Assignments/Assignment 1/bin/Debug/netcoreapp3.1/Newtonsoft.Json.dll
+/Users/nicobehnen/School/4th Year/Taustajarjestelmat/Assignments/Assignment 1/obj/Debug/netcoreapp3.1/Assignment 1.csproj.CopyComplete

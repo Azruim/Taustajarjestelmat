@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "SfGCQTt/8yxyPQT5/+O0BzasDpJwBenXRB6Xw9bZ8cp0vjGQPw6O0Ge8YAcA4uF+mF4A80qo0+0Rd2t7/s10vQ==",
+  "success": true,
+  "projectFilePath": "/Users/nicobehnen/School/4th Year/Taustajarjestelmat/Assignments/Assignment 1/Assignment 1.csproj",
+  "expectedPackageFiles": [
+    "/Users/nicobehnen/.nuget/packages/newtonsoft.json/12.0.3/newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
