@@ -1,9 +1,8 @@
-using System.Collections.Generic;
 namespace Assignment_1
 {
     public class BikeRentalStationList
     {
-        public List<Stations> stations { get; set; } 
+        public Stations[] stations { get; set; } 
     }
     public class Stations    {
         public int id { get; set; } 
@@ -16,7 +15,7 @@ namespace Assignment_1
         public bool isFloatingBike { get; set; } 
         public bool isCarStation { get; set; } 
         public string state { get; set; } 
-        public List<string> networks { get; set; } 
+        public string[] networks { get; set; } 
         public bool realTimeData { get; set; } 
     }
 }

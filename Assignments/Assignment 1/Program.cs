@@ -28,15 +28,16 @@ namespace Assignment_1
                 }
                 else
                     throw new ArgumentException(args[1]);
+
             }
             catch (ArgumentException ex)
             {
                 Console.WriteLine("Invalid argument: " + ex.Message);
             }
             catch (StationNotFoundException ex)
-            {
+            { 
                 Console.WriteLine("Not found: " + ex.Message);
-            }
+            }       
         }
     }
     public interface ICityBikeDataFetcher
